@@ -1,0 +1,8 @@
+-> Provide your gmail id and password to get yourself login
+-> Turn off less secure app in your system before running the program
+-> You will be getting a "Your account has been logged in from another account" mail in your gmail. It's your program only - ignore.
+-> For running the code everyday, follow the below commands:-
+	- Go to Task Scheduler library - Create Task - Trigger - New Schedule -"On a Scheduler" Daily - 12:00AM 
+                                             	   - General - Give "Name" and "Description"
+                                             	   - Action - New - Browse - Python program install location 
+                                                   - Don't forget to click on "Run task as soon as a scheduled program is missed"
